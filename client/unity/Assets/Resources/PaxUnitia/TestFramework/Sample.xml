@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<TestFramework name="Sample">
+	<TestDefine>
+		<Test name="Sample1" function="_SampleTest" use="true"/>
+	</TestDefine>
+</TestFramework>
